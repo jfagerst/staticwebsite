@@ -9,12 +9,15 @@ This website was created using **Markdown**
 
 ![Meme](https://i.redd.it/9cx9kcekmtwe1.png)
 
-### Making this website
+### How it was making this website
 * Easy
 * Fun
 * Productive
 
 > It just works!
 
-> [!WARNING]
-> Here is a random warning.
+**Here I am _testing_ different** styles of <ins>text</ins>
+
+Finally, here are some inspirational quotes:
+
+![Chat](assets/chat.png)
