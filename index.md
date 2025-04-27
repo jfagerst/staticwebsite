@@ -12,12 +12,10 @@ This website was created using **Markdown**
 ### How it was making this website
 * Easy
 * Fun
-* Productive
+* Quick
 
-> It just works!
+> Here is a quote
 
 **Here I am _testing_ different** styles of <ins>text</ins>
-
-Finally, here are some inspirational quotes:
 
 ![Chat](assets/chat.png)
